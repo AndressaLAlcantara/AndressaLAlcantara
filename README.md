@@ -24,16 +24,6 @@ Tenho interesse em desenvolvimento de software, resolução de problemas e cria�
 
 ---
 
-### 📚 Atualmente estudando
-
-- Programação orientada a objetos (Java)
-- Lógica de programação e algoritmos
-- Desenvolvimento com Python
-- Banco de dados e SQL
-- Desenvolvimento Web
-
----
-
 ### 📊 GitHub Statistics
 
 <p align="center">
